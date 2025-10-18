@@ -16,6 +16,7 @@ Pasos para ejecutar
 - Abrir una nueva terminal y ejecutar el nodo de cinemática inversa:
   ros2 run visual_pubsub inverse_kinematics_indice_pulgar
 
+![Vista del ejercicio en RViz](EJER_EXTRA1.png)
 
 
 

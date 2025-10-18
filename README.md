@@ -18,5 +18,9 @@ Pasos para ejecutar
 
 ![Vista del ejercicio en RViz](EJER_EXTRA1.png)
 
+Inversa en RVIZ: 
+
+![Vista del ejercicio en RViz](EJER_EXTRA_INVERSA.png)
+
 
 
